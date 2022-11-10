@@ -1,0 +1,16 @@
+.shopping-mall
+    {
+        color: white;
+        font-family: impact, sans-serif;
+        font-size: 50px;
+        letter-spacing: 0.3px;
+        text-shadow: 0 0 2px black;
+    }
+h5
+    {
+        bottom: 20px;
+        font-variant: small-caps;
+        letter-spacing: 0.5px;
+        font-size: 14px;
+
+    }
